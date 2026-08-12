@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DA418-D0E8-4E58-8D3C-27783FEC06C8}|NewFolder1{365DA418-D0E8-4E58-8D3C-27783FEC06C8}|C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\backend-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{365DA418-D0E8-4E58-8D3C-27783FEC06C8}|NewFolder1{365DA418-D0E8-4E58-8D3C-27783FEC06C8}|solutionrelative:backend-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\main.bicep||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:main.bicep||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B0835-912D-4911-B05F-AE439E15EBAF}|GameBackend.Tests\\GameBackend.Tests.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend.tests\\dailyrewardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B0835-912D-4911-B05F-AE439E15EBAF}|GameBackend.Tests\\GameBackend.Tests.csproj|solutionrelative:gamebackend.tests\\dailyrewardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\functions\\claimdailyrewardv1function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\functions\\claimdailyrewardv1function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\models\\claimdailyrewardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\models\\claimdailyrewardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\dailyrewardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\dailyrewardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\dailyrewardoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\dailyrewardoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\systemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\systemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\isystemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\isystemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\inmemorydailyrewardstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\inmemorydailyrewardstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\inmemorycurrencywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\inmemorycurrencywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\idailyrewardstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\idailyrewardstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\dailyrewards\\icurrencywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\dailyrewards\\icurrencywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\models\\claimdailyrewardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\models\\claimdailyrewardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\models\\playfabexecutefunctionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\models\\playfabexecutefunctionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|c:\\users\\san8290\\source\\repos\\dailyrewardproject\\dailyrewardproject\\gamebackend\\gamebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D030FFCF-0057-4DE3-91E6-D808173E015C}|GameBackend\\GameBackend.csproj|solutionrelative:gamebackend\\gamebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAGIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-12T12:15:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Program.cs",
+              "RelativeDocumentMoniker": "GameBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Program.cs",
+              "RelativeToolTip": "GameBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T12:05:52.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DailyRewardOptions.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\DailyRewardOptions.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\DailyRewardOptions.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\DailyRewardOptions.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\DailyRewardOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:49:56.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemClock.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\SystemClock.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\SystemClock.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\SystemClock.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\SystemClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:49:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InMemoryDailyRewardStateStore.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\InMemoryDailyRewardStateStore.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\InMemoryDailyRewardStateStore.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\InMemoryDailyRewardStateStore.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\InMemoryDailyRewardStateStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:49:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InMemoryCurrencyWallet.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\InMemoryCurrencyWallet.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\InMemoryCurrencyWallet.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\InMemoryCurrencyWallet.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\InMemoryCurrencyWallet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:49:00.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.bicep",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\main.bicep",
+              "RelativeDocumentMoniker": "main.bicep",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\main.bicep",
+              "RelativeToolTip": "main.bicep",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-12T11:45:24.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\.gitignore",
+              "RelativeDocumentMoniker": "GameBackend\\.gitignore",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\.gitignore",
+              "RelativeToolTip": "GameBackend\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-12T11:38:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "backend-ci.yml",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\backend-ci.yml",
+              "RelativeDocumentMoniker": "backend-ci.yml",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\backend-ci.yml",
+              "RelativeToolTip": "backend-ci.yml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-08-12T11:38:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayFabExecuteFunctionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Models\\PlayFabExecuteFunctionRequest.cs",
+              "RelativeDocumentMoniker": "GameBackend\\Models\\PlayFabExecuteFunctionRequest.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Models\\PlayFabExecuteFunctionRequest.cs",
+              "RelativeToolTip": "GameBackend\\Models\\PlayFabExecuteFunctionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:35:32.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaimDailyRewardResponse.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Models\\ClaimDailyRewardResponse.cs",
+              "RelativeDocumentMoniker": "GameBackend\\Models\\ClaimDailyRewardResponse.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Models\\ClaimDailyRewardResponse.cs",
+              "RelativeToolTip": "GameBackend\\Models\\ClaimDailyRewardResponse.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:35:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClaimDailyRewardRequest.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Models\\ClaimDailyRewardRequest.cs",
+              "RelativeDocumentMoniker": "GameBackend\\Models\\ClaimDailyRewardRequest.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Models\\ClaimDailyRewardRequest.cs",
+              "RelativeToolTip": "GameBackend\\Models\\ClaimDailyRewardRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:35:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyRewardServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend.Tests\\DailyRewardServiceTests.cs",
+              "RelativeDocumentMoniker": "GameBackend.Tests\\DailyRewardServiceTests.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend.Tests\\DailyRewardServiceTests.cs",
+              "RelativeToolTip": "GameBackend.Tests\\DailyRewardServiceTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:25:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISystemClock.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\ISystemClock.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\ISystemClock.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\ISystemClock.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\ISystemClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:24:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICurrencyWallet.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\ICurrencyWallet.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\ICurrencyWallet.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\ICurrencyWallet.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\ICurrencyWallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:23:57.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDailyRewardStateStore.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\IDailyRewardStateStore.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\IDailyRewardStateStore.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\IDailyRewardStateStore.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\IDailyRewardStateStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:23:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DailyRewardService.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\DailyRewardService.cs",
+              "RelativeDocumentMoniker": "GameBackend\\DailyRewards\\DailyRewardService.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\DailyRewards\\DailyRewardService.cs",
+              "RelativeToolTip": "GameBackend\\DailyRewards\\DailyRewardService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwHcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:22:55.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameBackend",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\GameBackend.csproj",
+              "RelativeDocumentMoniker": "GameBackend\\GameBackend.csproj",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\GameBackend.csproj",
+              "RelativeToolTip": "GameBackend\\GameBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-12T11:19:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaimDailyRewardV1Function.cs",
+              "DocumentMoniker": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Functions\\ClaimDailyRewardV1Function.cs",
+              "RelativeDocumentMoniker": "GameBackend\\Functions\\ClaimDailyRewardV1Function.cs",
+              "ToolTip": "C:\\Users\\san8290\\source\\repos\\DailyRewardProject\\DailyRewardProject\\GameBackend\\Functions\\ClaimDailyRewardV1Function.cs",
+              "RelativeToolTip": "GameBackend\\Functions\\ClaimDailyRewardV1Function.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:18:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
